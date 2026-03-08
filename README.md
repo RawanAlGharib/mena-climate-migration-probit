@@ -10,7 +10,7 @@ This empirical study investigates the complex drivers of human migration within 
 
 ## 🛠️ Data & Methodology
 * **Software:** Stata 
-* **Data Source:** Arab Barometer (Cross-sectional survey data for the MENA region).
+* **Data Source:** Arab Barometer (Cross-sectional survey data for the MENA region). The raw dataset is too large to host on GitHub, but the original survey data can be accessed directly from the Arab Barometer Website: https://www.arabbarometer.org/
 * **Econometric Model:** Probit regression model (binary dependent variable for migration).
 * **Analytical Approach:** Core regressions followed by sub-sample splitting (urban/rural) and demographic controls (gender) to test the robustness of environmental correlations.
 
